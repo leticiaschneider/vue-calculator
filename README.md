@@ -19,6 +19,4 @@ Visit `http://localhost:8080/` in your browser to see the app in action.
 
 ## ✨ Contact
 
-Letícia Araújo Schneider - @leehschneider - leticia.schneider@gmail.com
-
-Project Link: https://github.com/leticiaschneider/vue-calculator
+Letícia Araújo Schneider  - leticia.schneider@gmail.com
